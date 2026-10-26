@@ -1,2 +1,4 @@
-# CS---340
-Client / Server Development
+# CS 340 - Client/Server Development - Corey Ralls
+
+I learned that keeping code organized makes it easier to fix and update. For Project Two, I reused my CRUD Python module from Project One to connect the dashboard to MongoDB. This saved me from writing the same database code again, and I could use it in other projects.
+When working on a project, I start by figuring out what the user needs and breaking the work into smaller steps. For Grazioso Salvare, I made a dashboard to help find dogs for different types of rescue training. This project was different because I had to make the database and dashboard work together. In the future, I plan to keep testing each part as I go. Computer scientists use technology to solve problems and make tasks easier. My dashboard could help Grazioso Salvare search animal records faster and find dogs that might be good for rescue training.
